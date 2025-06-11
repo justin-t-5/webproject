@@ -1,4 +1,4 @@
-export default function Card({ title, description }) {
+export default function Cards({ title, description }) {
   return (
     <div className="card">
       <h2>{title}</h2>

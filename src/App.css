@@ -11,7 +11,7 @@
 }
 
 .card {
-  background: #f0f0f0;
+  background: #4b8ef4;
   padding: 15px;
   border-radius: 10px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
@@ -24,4 +24,12 @@
 
 .card p {
   font-size: 14px;
+}
+.root{
+  display: flex;
+}
+h1{
+  background-color: #82b1f7;
+  padding: 20px 30px 20px 30px;
+  border-radius: 20px;
 }
