@@ -39,13 +39,11 @@ GIF created with ...
 
 
 ## Notes
-
-
-Describe any challenges encountered while building the app.
+I had some challenges cloning my github repo and then other issues with react set-up but I managed to figure it out in time.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Justin Tamay]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
